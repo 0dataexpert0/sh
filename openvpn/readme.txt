@@ -1,3 +1,6 @@
+Cheap openvpn vps
+https://m.do.co/c/82c3f029928b
+---
 Install openvpn:
 wget https://raw.githubusercontent.com/0dataexpert0/sh/master/openvpn/openvpn.sh && bash openvpn.sh
 ---
